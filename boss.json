@@ -1,0 +1,9 @@
+{
+	"name": "HashLib4Pascal",
+	"description": "HashLib4Pascal: Hashing for Modern Object Pascal",
+	"version": "1.0.0",
+	"homepage": "https://github.com/Xor-el/HashLib4Pascal",
+	"mainsrc": "./HashLib/src",
+	"projects": [],
+	"dependencies": {}
+}
